@@ -3,12 +3,60 @@
   "WorkspaceRootPath": "D:\\Datta_Git\\Unit_Testing\\UnitTesting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{300F299D-49CE-45C0-B5B4-92EE56E2FCB8}|MathLibraryTest.Nunit\\MathLibraryTest.Nunit.csproj|d:\\datta_git\\unit_testing\\unittesting\\mathlibrarytest.nunit\\calculatortest_nunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{300F299D-49CE-45C0-B5B4-92EE56E2FCB8}|MathLibraryTest.Nunit\\MathLibraryTest.Nunit.csproj|solutionrelative:mathlibrarytest.nunit\\calculatortest_nunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57E95476-0794-492F-AB12-D6A52EEEC1C1}|UnitTesting\\UnitTesting.csproj|D:\\Datta_Git\\Unit_Testing\\UnitTesting\\unittesting\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E95476-0794-492F-AB12-D6A52EEEC1C1}|UnitTesting\\UnitTesting.csproj|solutionrelative:unittesting\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4679B8D1-C678-4ED2-B140-969EA916FB37}|MathLibraryTest\\MathLibraryTest.csproj|d:\\datta_git\\unit_testing\\unittesting\\mathlibrarytest\\calculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4679B8D1-C678-4ED2-B140-969EA916FB37}|MathLibraryTest\\MathLibraryTest.csproj|solutionrelative:mathlibrarytest\\calculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{900F969A-A964-4476-87CA-BC683154292F}|WebUITest\\WebUITest.csproj|D:\\Datta_Git\\Unit_Testing\\UnitTesting\\webuitest\\categorycontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900F969A-A964-4476-87CA-BC683154292F}|WebUITest\\WebUITest.csproj|solutionrelative:webuitest\\categorycontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CCA487-6AC5-431F-8A10-F81705D8E92D}|Xunit_test\\Xunit_test.csproj|d:\\datta_git\\unit_testing\\unittesting\\xunit_test\\xunittesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CCA487-6AC5-431F-8A10-F81705D8E92D}|Xunit_test\\Xunit_test.csproj|solutionrelative:xunit_test\\xunittesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E95476-0794-492F-AB12-D6A52EEEC1C1}|UnitTesting\\UnitTesting.csproj|D:\\Datta_Git\\Unit_Testing\\UnitTesting\\unittesting\\app_start\\unityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E95476-0794-492F-AB12-D6A52EEEC1C1}|UnitTesting\\UnitTesting.csproj|solutionrelative:unittesting\\app_start\\unityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E95476-0794-492F-AB12-D6A52EEEC1C1}|UnitTesting\\UnitTesting.csproj|D:\\Datta_Git\\Unit_Testing\\UnitTesting\\unittesting\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E95476-0794-492F-AB12-D6A52EEEC1C1}|UnitTesting\\UnitTesting.csproj|solutionrelative:unittesting\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E95476-0794-492F-AB12-D6A52EEEC1C1}|UnitTesting\\UnitTesting.csproj|D:\\Datta_Git\\Unit_Testing\\UnitTesting\\unittesting\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{57E95476-0794-492F-AB12-D6A52EEEC1C1}|UnitTesting\\UnitTesting.csproj|solutionrelative:unittesting\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D915C4E-1900-4176-9039-D5677849EC6A}|BAL\\BAL.csproj|D:\\Datta_Git\\Unit_Testing\\UnitTesting\\bal\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D915C4E-1900-4176-9039-D5677849EC6A}|BAL\\BAL.csproj|solutionrelative:bal\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D915C4E-1900-4176-9039-D5677849EC6A}|BAL\\BAL.csproj|D:\\Datta_Git\\Unit_Testing\\UnitTesting\\bal\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D915C4E-1900-4176-9039-D5677849EC6A}|BAL\\BAL.csproj|solutionrelative:bal\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A389E67-8ACF-47E0-9808-885BF588728C}|Repositories\\Repositories.csproj|D:\\Datta_Git\\Unit_Testing\\UnitTesting\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A389E67-8ACF-47E0-9808-885BF588728C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A389E67-8ACF-47E0-9808-885BF588728C}|Repositories\\Repositories.csproj|D:\\Datta_Git\\Unit_Testing\\UnitTesting\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A389E67-8ACF-47E0-9808-885BF588728C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E95476-0794-492F-AB12-D6A52EEEC1C1}|UnitTesting\\UnitTesting.csproj|D:\\Datta_Git\\Unit_Testing\\UnitTesting\\unittesting\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E95476-0794-492F-AB12-D6A52EEEC1C1}|UnitTesting\\UnitTesting.csproj|solutionrelative:unittesting\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E95476-0794-492F-AB12-D6A52EEEC1C1}|UnitTesting\\UnitTesting.csproj|D:\\Datta_Git\\Unit_Testing\\UnitTesting\\unittesting\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57E95476-0794-492F-AB12-D6A52EEEC1C1}|UnitTesting\\UnitTesting.csproj|solutionrelative:unittesting\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E548C4-F5A5-4549-A57B-13D08E29BF2F}|DAL\\DAL.csproj|D:\\Datta_Git\\Unit_Testing\\UnitTesting\\dal\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E548C4-F5A5-4549-A57B-13D08E29BF2F}|DAL\\DAL.csproj|solutionrelative:dal\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E548C4-F5A5-4549-A57B-13D08E29BF2F}|DAL\\DAL.csproj|D:\\Datta_Git\\Unit_Testing\\UnitTesting\\dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E548C4-F5A5-4549-A57B-13D08E29BF2F}|DAL\\DAL.csproj|solutionrelative:dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,29 +78,174 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CalculatorTest.cs",
-              "DocumentMoniker": "D:\\Datta_Git\\Unit_Testing\\UnitTesting\\MathLibraryTest\\CalculatorTest.cs",
-              "RelativeDocumentMoniker": "MathLibraryTest\\CalculatorTest.cs",
-              "ToolTip": "D:\\Datta_Git\\Unit_Testing\\UnitTesting\\MathLibraryTest\\CalculatorTest.cs",
-              "RelativeToolTip": "MathLibraryTest\\CalculatorTest.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAwEUAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "XUnitTesting.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Unit_Testing\\UnitTesting\\Xunit_test\\XUnitTesting.cs",
+              "RelativeDocumentMoniker": "Xunit_test\\XUnitTesting.cs",
+              "ToolTip": "D:\\Datta_Git\\Unit_Testing\\UnitTesting\\Xunit_test\\XUnitTesting.cs",
+              "RelativeToolTip": "Xunit_test\\XUnitTesting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T11:58:27.722Z",
+              "WhenOpened": "2025-01-23T19:53:26.759Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CalculatorTest_Nunit.cs",
-              "DocumentMoniker": "D:\\Datta_Git\\Unit_Testing\\UnitTesting\\MathLibraryTest.Nunit\\CalculatorTest_Nunit.cs",
-              "RelativeDocumentMoniker": "MathLibraryTest.Nunit\\CalculatorTest_Nunit.cs",
-              "ToolTip": "D:\\Datta_Git\\Unit_Testing\\UnitTesting\\MathLibraryTest.Nunit\\CalculatorTest_Nunit.cs*",
-              "RelativeToolTip": "MathLibraryTest.Nunit\\CalculatorTest_Nunit.cs*",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAwE0AAAAKAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CategoryControllerTest.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Unit_Testing\\UnitTesting\\WebUITest\\CategoryControllerTest.cs",
+              "RelativeDocumentMoniker": "WebUITest\\CategoryControllerTest.cs",
+              "ToolTip": "D:\\Datta_Git\\Unit_Testing\\UnitTesting\\WebUITest\\CategoryControllerTest.cs",
+              "RelativeToolTip": "WebUITest\\CategoryControllerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T11:56:01.39Z",
+              "WhenOpened": "2025-01-23T19:43:52.307Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Datta_Git\\Unit_Testing\\UnitTesting\\UnitTesting\\Web.config",
+              "RelativeDocumentMoniker": "UnitTesting\\Web.config",
+              "ToolTip": "D:\\Datta_Git\\Unit_Testing\\UnitTesting\\UnitTesting\\Web.config",
+              "RelativeToolTip": "UnitTesting\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-23T19:42:33.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Unit_Testing\\UnitTesting\\UnitTesting\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "UnitTesting\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Datta_Git\\Unit_Testing\\UnitTesting\\UnitTesting\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "UnitTesting\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T08:03:58.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnityConfig.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Unit_Testing\\UnitTesting\\UnitTesting\\App_Start\\UnityConfig.cs",
+              "RelativeDocumentMoniker": "UnitTesting\\App_Start\\UnityConfig.cs",
+              "ToolTip": "D:\\Datta_Git\\Unit_Testing\\UnitTesting\\UnitTesting\\App_Start\\UnityConfig.cs",
+              "RelativeToolTip": "UnitTesting\\App_Start\\UnityConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T19:42:56.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Unit_Testing\\UnitTesting\\BAL\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "BAL\\ICategoryService.cs",
+              "ToolTip": "D:\\Datta_Git\\Unit_Testing\\UnitTesting\\BAL\\ICategoryService.cs",
+              "RelativeToolTip": "BAL\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T19:42:21.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Unit_Testing\\UnitTesting\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICategoryRepository.cs",
+              "ToolTip": "D:\\Datta_Git\\Unit_Testing\\UnitTesting\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T08:04:33.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Unit_Testing\\UnitTesting\\UnitTesting\\Global.asax.cs",
+              "RelativeDocumentMoniker": "UnitTesting\\Global.asax.cs",
+              "ToolTip": "D:\\Datta_Git\\Unit_Testing\\UnitTesting\\UnitTesting\\Global.asax.cs",
+              "RelativeToolTip": "UnitTesting\\Global.asax.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAlwA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T08:12:06.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Unit_Testing\\UnitTesting\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CategoryRepository.cs",
+              "ToolTip": "D:\\Datta_Git\\Unit_Testing\\UnitTesting\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T08:04:25.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Unit_Testing\\UnitTesting\\BAL\\CategoryService.cs",
+              "RelativeDocumentMoniker": "BAL\\CategoryService.cs",
+              "ToolTip": "D:\\Datta_Git\\Unit_Testing\\UnitTesting\\BAL\\CategoryService.cs",
+              "RelativeToolTip": "BAL\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T08:04:44.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Unit_Testing\\UnitTesting\\UnitTesting\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "UnitTesting\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\Datta_Git\\Unit_Testing\\UnitTesting\\UnitTesting\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "UnitTesting\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T08:07:18.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Datta_Git\\Unit_Testing\\UnitTesting\\UnitTesting\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "UnitTesting\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\Datta_Git\\Unit_Testing\\UnitTesting\\UnitTesting\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "UnitTesting\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T09:16:35.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Unit_Testing\\UnitTesting\\DAL\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Category.cs",
+              "ToolTip": "D:\\Datta_Git\\Unit_Testing\\UnitTesting\\DAL\\Models\\Category.cs",
+              "RelativeToolTip": "DAL\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T08:10:06.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Unit_Testing\\UnitTesting\\DAL\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Datta_Git\\Unit_Testing\\UnitTesting\\DAL\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DAL\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T08:10:38.004Z"
             }
           ]
         }

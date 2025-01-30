@@ -13,7 +13,7 @@ namespace MathLibraryTest.Nunit
         [Test]
         public void Calculator_Add_Positive()
         {
-            //Arrangr
+            //Arrange
             Calculator c = new Calculator();
             int a = 10, b = 10;
             int expectedResult = 20;
